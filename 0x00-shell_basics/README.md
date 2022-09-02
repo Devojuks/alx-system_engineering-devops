@@ -1,1 +1,1 @@
-Display current directory content in long format with user and ids displayed numerically
+Create a script that creates a directory in another directory
