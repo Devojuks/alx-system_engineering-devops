@@ -1,1 +1,1 @@
-Confused smiley
+Last lines of a file
